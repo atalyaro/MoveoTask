@@ -1,5 +1,5 @@
 import React, { useRef, useState, useEffect } from "react";
-import WaveSurfer, { setMute } from "wavesurfer";
+import WaveSurfer from "wavesurfer.js";
 import Checkbox from '@mui/material/Checkbox';
 import VolumeOffOutlinedIcon from '@mui/icons-material/VolumeOffOutlined';
 import VolumeUpOutlinedIcon from '@mui/icons-material/VolumeUpOutlined';
